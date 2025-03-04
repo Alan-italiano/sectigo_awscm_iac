@@ -1,0 +1,11 @@
+---
+accounts:
+  aws:
+    -
+      acme-endpoint: https://acme.enterprise.sectigo.com
+      eab-hmac-key: uVX6FhJMrGwuKd11RfkSd4uTe5u8iv89mobJReHQqtASSbMMPyZQikkCypY4QyeMaBNlvaeiRla6VxBEGTrW5T6a
+      eab-key: a8a36550ab3b119bdbb41dcbb9ed0bd3
+      email: alan.costa@netbr.com.br
+      RenewBeforeDays: 29
+      KeyType: RSA
+      KeySize: 2048
